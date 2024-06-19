@@ -13,8 +13,8 @@
 <!-- TABLE OF CONTENTS -->
 <details align="center">
     <summary>Table of Contents</summary>
-    <div class="ulc">
-        <ol type="i" style="inside">
+    <div>
+        <ol type="i">
         <li><a href="#about-the-project">About The Project</a></li>
         <li><a href="#getting-started">Getting Started</a></li>
         <li><a href="#usage">Usage</a></li>
@@ -23,13 +23,6 @@
         </ol>
     </div>
 </details>
-<style>
-.ulc {
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-}
-</style>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
